@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">using the needit form</h1>
+<p>use the needit application to request services and goods from several departments</p>
+<ul class="steps-unordered"><li class="li step">Legal</li><li class="li step">Human resources</li><li class="li step">Facilities</li></ul>
+<h2 class="title sectiontitle">Needit form fields</h2>
+<ol class="steps-ordered"><li class="li step">For new NeedIt records, the Requested for field is pre-populated with your name. If you are opening a NeedIt request for someone else, you can change the value in the Requested for field.</li><li class="li step">The Requested for email field is automatically populated if you change the user in the Requested for field. You can change the Requested for email field value.</li><li class="li step">The choices in the What needed field depend on the value in the Request type field.</li><li class="li step">If the value in the What needed field is Other, the Other field appears. Use the Other field to add a few words about your request.</li><li class="li step">Use the calendar picker in the When needed field to set the due date for the NeedIt request.</li></ol>
+<p>Use the Short description and Description fields to provide more information about your request.</p>
+<div class="note tm-element"><span class="notetitle">Note:when creating needit requests, the when needed date cannot be today or in the past.</span></div>
+<h2 class="title sectiontitle">Need more help?</h2>
+<p>You can learn about<a title="from fields" href="https://docs.servicenow.com/bundle/paris-platform-user-interface/page/use/using-forms/concept/c_FormFields.html#c_FormFields" target="_blank" rel="noopener"><span class="ph uicontrol"> from fields</span></a> on the servicenow docs site.</p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>embeddedhelp</name>
+        <page>record</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 16:09:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>797e7c2adbd72010b4abb7e8f49619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>embeddedhelp</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_797e7c2adbd72010b4abb7e8f49619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 16:09:59</sys_updated_on>
+        <version>p</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=797e7c2adbd72010b4abb7e8f49619d5"/>
+</record_update>
